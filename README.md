@@ -1,5 +1,6 @@
 # GRE
-I am adding all the resources, I wish somebody had told me and compiled, for preparation of verbal. This is going to be "exclusively" for verbal section.
+I am adding all the resources, I wish somebody had told me before, for preparation of verbal. 
+This is going to be "exclusively" for verbal section.
 Will probably add my experience on the test day if I have time.
 
 Vocab :
@@ -14,6 +15,3 @@ https://www.gregmat.com/learn-verbal
 For practice : 
 1. Official Guide
 2. http://gre.kmf.com/explain/question/32135-293.html
-
-
-Remenber for verbal, practice is the key. Do practice tests with a timer from the kmf site mentioned above.
